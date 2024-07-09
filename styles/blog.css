@@ -1,6 +1,6 @@
-body{
+div{
     background-color:rgb(93, 204, 255);
-    margin:30px;
+    margin-bottom:45px;
     border:9px solid rgb(255, 255, 255);
     box-shadow:30px 30px 40px 10px;
 }
